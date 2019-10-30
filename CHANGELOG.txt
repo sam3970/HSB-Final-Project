@@ -20,7 +20,7 @@ DSB 1차 업데이트
 1.Host단의 내용 수정 -> GET, POST와 같은 Http Method단에 옥텟 비트를 추가하여 공백을 만드는 기능을 추가
 (현재의 이 기능은 차단되고 한국에서는 더이상 적용되지 않는 방식임)
 
-2.Http Fragmentation의 기능에 Redirect 302(재전송에 다시 재전송을 하는 일을 함)기능 추가
+2.Http Fragmentation의 기능에 Redirect 302기능 추가
 (패킷 단편화 이전에 패킷의 재전송 기능을 구현)
 
 -GUI-
